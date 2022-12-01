@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node ./src/day-1.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
